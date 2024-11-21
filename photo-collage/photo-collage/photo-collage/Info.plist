@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Basic App Configuration -->
+    <key>CFBundleDisplayName</key>
+    <string>Samba Collage Maker</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.yourcompany.yourappname</string>
+    <key>CFBundleVersion</key>
+    <string>1.0</string>
+    
+    <!-- Privacy Usage Descriptions -->
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>This app needs access to your photo library to select photos for your collage.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>This app saves your photo collages to your photo library.</string>
+    
+    <!-- URL Types (for custom URL schemes, if needed) -->
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>yourcustomscheme</string>
+            </array>
+        </dict>
+    </array>
+</dict>
+</plist>
+
