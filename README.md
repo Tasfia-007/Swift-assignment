@@ -1,6 +1,8 @@
 # Swift-assignment
-###Tasfia Zaman Samiha 
-###2007078
+#Tasfia Zaman Samiha 
+
+#2007078
+
 Welcome to the Photo Collage App! 🎨
 Hey there! 👋 Thank you for checking out the Photo Collage App. This app is all about making it super simple (and fun!) to create your very own photo collages. No extra frills—just you, your photos, and some cool layouts. Here’s a quick guide to help you get started.
 ✨ What Can You Do With This App?
